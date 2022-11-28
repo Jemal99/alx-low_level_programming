@@ -3,7 +3,7 @@
 In this project, I learned about using `exit`, `calloc`, and `realloc` in C.
 ## Header File :file_folder:
 
-* [holberton.h](./holberton.h): Header file containing prototypes for all functions written in
+* [main.h](./main.h): Header file containing prototypes for all functions written in
 the project.
 
 | File                 | Prototype                                                                  |
